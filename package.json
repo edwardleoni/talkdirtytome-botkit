@@ -1,0 +1,28 @@
+{
+  "name": "talkdirtytome-botkit",
+  "version": "0.1",
+  "description": "Talk Dirty to Me middleware for Botkit",
+  "main": "td2m.js",
+  "keywords": [
+    "bot",
+    "bots",
+    "chatbot",
+    "analytics",
+    "data",
+    "tools"
+  ],
+  "scripts": {},
+  "maintainers": [
+    {
+      "name": "Edward Leoni",
+      "email": "mail@edwardleoni.com"
+    }
+  ],
+  "author": {
+    "name": "Edward Leoni"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "request": "^2.83.0"
+  }
+}
